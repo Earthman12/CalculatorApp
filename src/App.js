@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Result from './Components/result';
 import Keypad from './Components/keypad';
+import './App.css';
 
 class App extends React.Component{
     constructor() {
